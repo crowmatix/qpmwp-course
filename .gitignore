@@ -171,6 +171,3 @@ cython_debug/
 # Data
 # Data/
 # data/*
-
-requirements.txt
-metadata.json
